@@ -1,2 +1,2 @@
-# 3mtt-data-analysis-
+# 3mttdataanalysis-
 MNI-PROJECT (REGIONAL ANALYSIS)
